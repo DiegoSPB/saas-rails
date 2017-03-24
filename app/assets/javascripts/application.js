@@ -15,5 +15,4 @@
 //= require three-render
 //= require three-minified
 //= require jquery_ujs
-//= require turbolinks
 //= require_tree .
